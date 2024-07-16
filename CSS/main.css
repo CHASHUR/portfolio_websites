@@ -492,11 +492,13 @@ footer.foot div.others {
 }
 footer.foot div.others div.row div.col-sm-3 {
     text-align: center;
+    
 }
 footer.foot div.others h6 {
     font-weight: 400;
 }
 footer.foot div.others p {
+    
     text-align: center;
     margin-top: 45px;
     font-weight: 400;
